@@ -54,7 +54,7 @@ Boss: I mean your physical address
 Me: 29:01:38:62:31:58
 
 ***
-while(!(suceed=try()) ); 
+while(!(suceed=try()) );
 ***
 ![](./images/algorithm-of-success.jpg)
 
@@ -68,4 +68,16 @@ As a programmer, it is your job to put yourself out of business. What you do tod
 Measuring programming progree by lines of code is like measuring aircraft building progree by weight. - Bill Gates
 ***
 Testing can only prove the presence of bugs, not their absence. – Edsger W. Dijkstra
+***
+
+![](https://i.redd.it/w37iqs0v2rq51.png)
+***
+![](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Dev_Jokes_and_Quotes/images/ME%20and%20Boiizzz.jpg)
+***
+I'm a beginner and I don't no none, but why do I code?
+just for tee from Hacktoberfest
+***
+“You create a gun module, a gun class, a foot module, and a foot class. After realizing3 you can’t point the gun at the foot, you pass a reference to the gun to a foot object. After the foot is blown up, the gun object remains alive for eternity, ready to shoot all future feet that may happen to appear.” ~  Mark Hammond
+***
+Ho help, I'm lost is a random forest.
 ***
